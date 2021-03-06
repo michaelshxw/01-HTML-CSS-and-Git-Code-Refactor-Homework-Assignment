@@ -24,6 +24,8 @@ h1 .seo {
     color: #d9dcd6;
 }
 
+/* Navigation bar */
+
 nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -46,6 +48,8 @@ a {
     text-decoration: none;
 }
 
+/* Hero image */
+
 .hero {
     height: 800px;
     width: 100%;
@@ -55,12 +59,15 @@ a {
     background-position: center;
 }
 
+/* Main content */
+
 .content {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
 
+/* tells the images to float either left or right, depending on which class is added to the HTML element */
 .float-left {
     float: left;
     margin-right: 25px;
@@ -98,6 +105,7 @@ a {
     color: #ffffff;
 }
 
+/* sets the image height so it doesn't take up too much of the viewport */
 .content img {
     max-height: 200px;
 }
@@ -110,6 +118,8 @@ h2 {
 p {
     font-size: 16px;
 }
+
+/* Benefits section - side column on the right of the viewport */
 
 .benefits {
     margin-right: 20px;
@@ -147,6 +157,8 @@ h3 {
     margin: 10px auto;
     max-width: 150px;
 }
+
+/* Footer - copywrite information and made by */
 
 footer {
     padding: 30px;
