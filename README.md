@@ -9,4 +9,4 @@ This repository includes all files relating to the UWA Full Stack Web Developmen
 
 [Screenshot 2](Deployed_site_screenshot2.png)
 
-URL for completed product: https://michaelshxw.github.io/01-HTML-CSS-and-Git-Code-Refactor-Homework-Assignment/
+URL for completed product: https://michaelshxw.github.io/Code-Refactor/
