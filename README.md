@@ -12,7 +12,6 @@
   * [Usage](#usage)
   * [Tests](#tests)
   * [License](#license)
-  * [Credits](#credits)
   * [Questions](#questions)
 
   ## Usage
